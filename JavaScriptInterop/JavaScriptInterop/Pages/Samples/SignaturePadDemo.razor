@@ -1,0 +1,24 @@
+﻿@page "/SignaturePageDemo"
+@inject IJSRuntime JSRuntime
+<h3>SignaturePageDemo </h3>
+<canvas width ="300" height ="200" id="theCanvas" style ="border: 1px solid red" />
+<hr />
+<input type="text" id="textSignature" @bind="ImageData" />
+<hr />
+@ImageData
+<hr />
+<img src = "" />
+<hr />
+@code {
+    private string ImageData = "test";
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await JSRuntime.InvokeAsync<object>("BlazorSignaturePad", "theCanvas");
+    }
+    private static string ImageDataFromJavaScript = "";
+    [JSInvokable]
+    public static void GetImageDataAsync( string imageData)
+    {
+        ImageDataFromJavaScript = imageData;
+    }
+}
