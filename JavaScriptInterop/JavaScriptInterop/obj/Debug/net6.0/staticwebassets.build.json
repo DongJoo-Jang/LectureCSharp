@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p9t5Y2Uvb7T1v0G4XBaHk6WtwtewxoRqUxpaGSBqdXc=",
+  "Hash": "bucD8uKhZ9oqFXPRuKaRnHDAH4nIQRyDZTlD69Q3JMc=",
   "Source": "JavaScriptInterop",
   "BasePath": "_content/JavaScriptInterop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "JavaScriptInterop\\wwwroot",
       "Source": "JavaScriptInterop",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\JavaScriptInterop.styles.css",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\JavaScriptInterop.styles.css",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "JavaScriptInterop.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\JavaScriptInterop.styles.css"
+      "OriginalItemSpec": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\JavaScriptInterop.styles.css"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\JavaScriptInterop.bundle.scp.css",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\JavaScriptInterop.bundle.scp.css",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "JavaScriptInterop.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\JavaScriptInterop.bundle.scp.css"
+      "OriginalItemSpec": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\JavaScriptInterop.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\.eslintrc.js",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\.eslintrc.js",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": ".eslintrc.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\.eslintrc.js"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\ie9.css",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\ie9.css",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/ie9.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ie9.css"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\signature-pad.css",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\signature-pad.css",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/signature-pad.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\signature-pad.css"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\site.css",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\css\\site.css",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\favicon.ico",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\favicon.ico",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\index.html",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\index.html",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\js\\app.js",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\js\\app.js",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "js/app.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app.js"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\js\\BlazorSignaturePad.js",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\js\\BlazorSignaturePad.js",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "js/BlazorSignaturePad.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\BlazorSignaturePad.js"
     },
     {
-      "Identity": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\js\\signature_pad.umd.js",
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\js\\signature_pad.umd.js",
       "SourceId": "JavaScriptInterop",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\wwwroot\\",
       "BasePath": "_content/JavaScriptInterop",
       "RelativePath": "js/signature_pad.umd.js",
       "AssetKind": "All",

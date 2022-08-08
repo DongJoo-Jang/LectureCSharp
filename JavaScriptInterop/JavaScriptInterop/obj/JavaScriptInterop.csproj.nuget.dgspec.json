@@ -1,27 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj": {}
+    "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj": {
+    "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj",
+        "projectUniqueName": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj",
         "projectName": "JavaScriptInterop",
-        "projectPath": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj",
+        "projectPath": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\JavaScriptInterop.csproj",
         "packagesPath": "C:\\Users\\svra0\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\",
+        "outputPath": "D:\\11.GIt\\Udemy_Blazor\\JavaScriptInterop\\JavaScriptInterop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svra0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.88:4710/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
