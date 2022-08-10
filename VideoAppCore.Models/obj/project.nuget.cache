@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPIN6vqrxoEHo0rfEQXOf3yhgchyX+ObyNlZ7NLJYkkIco3FS3tqFp+nZAXarnmLmO+6XQ4LyXYDPnVCwDb3QA==",
+  "success": true,
+  "projectFilePath": "D:\\11.GIt\\Udemy_Blazor\\VideoAppCore.Models\\VideoAppCore.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svra0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\svra0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

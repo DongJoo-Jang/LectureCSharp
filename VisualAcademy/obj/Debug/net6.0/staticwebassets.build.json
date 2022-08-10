@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2jPjM1kjTx2eX0ERveIywsnKLl4+Oqp+Dh5joff2FIg=",
+  "Hash": "QOzC3IiewAHzBJyDtia8yee0ziEYN69kgaggUKLKYBg=",
   "Source": "VisualAcademy",
   "BasePath": "_content/VisualAcademy",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\11.GIt\\Udemy_Blazor\\VisualAcademy\\wwwroot\\blank.html",
+      "SourceId": "VisualAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\11.GIt\\Udemy_Blazor\\VisualAcademy\\wwwroot\\",
+      "BasePath": "_content/VisualAcademy",
+      "RelativePath": "blank.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blank.html"
     },
     {
       "Identity": "D:\\11.GIt\\Udemy_Blazor\\VisualAcademy\\wwwroot\\blog-home.html",
