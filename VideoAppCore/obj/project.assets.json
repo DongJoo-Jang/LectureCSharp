@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "VideoAppCore.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/VideoAppCore.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VideoAppCore.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "VideoAppCore.Models/1.0.0": {
+      "type": "project",
+      "path": "../VideoAppCore.Models/VideoAppCore.Models.csproj",
+      "msbuildProject": "../VideoAppCore.Models/VideoAppCore.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "VideoAppCore.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\svra0\\.nuget\\packages\\": {}
@@ -36,7 +55,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\11.GIt\\Udemy_Blazor\\VideoAppCore.Models\\VideoAppCore.Models.csproj": {
+              "projectPath": "D:\\11.GIt\\Udemy_Blazor\\VideoAppCore.Models\\VideoAppCore.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

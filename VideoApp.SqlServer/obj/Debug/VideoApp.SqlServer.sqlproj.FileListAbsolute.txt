@@ -2,9 +2,9 @@ D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\bin\Debug\VideoApp.SqlServer.dacpac
 D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\bin\Debug\VideoApp.SqlServer.dll
 D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\bin\Debug\VideoApp.SqlServer.pdb
 D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\VideoApp.SqlServer.sqlproj.AssemblyReference.cache
+D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\VideoApp.SqlServer.dll
+D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\VideoApp.SqlServer.pdb
 D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\Model.xml
 D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\refactor.xml
 D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\postdeploy.sql
 D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\predeploy.sql
-D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\VideoApp.SqlServer.dll
-D:\11.GIt\Udemy_Blazor\VideoApp.SqlServer\obj\Debug\VideoApp.SqlServer.pdb

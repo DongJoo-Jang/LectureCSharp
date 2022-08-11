@@ -25,3 +25,6 @@ D:\11.GIt\Udemy_Blazor\VideoAppCore\obj\Debug\net6.0\refint\VideoAppCore.dll
 D:\11.GIt\Udemy_Blazor\VideoAppCore\obj\Debug\net6.0\VideoAppCore.pdb
 D:\11.GIt\Udemy_Blazor\VideoAppCore\obj\Debug\net6.0\VideoAppCore.genruntimeconfig.cache
 D:\11.GIt\Udemy_Blazor\VideoAppCore\obj\Debug\net6.0\ref\VideoAppCore.dll
+D:\11.GIt\Udemy_Blazor\VideoAppCore\bin\Debug\net6.0\VideoAppCore.Models.dll
+D:\11.GIt\Udemy_Blazor\VideoAppCore\bin\Debug\net6.0\VideoAppCore.Models.pdb
+D:\11.GIt\Udemy_Blazor\VideoAppCore\obj\Debug\net6.0\VideoAppCore.csproj.CopyComplete

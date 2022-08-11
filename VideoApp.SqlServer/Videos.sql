@@ -1,4 +1,4 @@
-﻿--비디오 테이블
+﻿--[1]테이블 작성
 CREATE TABLE [dbo].[Videos]
 (
 	[Id] int Not null Identity(1, 1) Primary key,
